@@ -1,0 +1,6 @@
+c:\ecommerce\Test-Ecommerce\src\main\java\br\unibh\sdm\ecommerce\Application.java
+c:\ecommerce\Test-Ecommerce\src\main\java\br\unibh\sdm\ecommerce\entity\Store.java
+c:\ecommerce\Test-Ecommerce\src\main\java\br\unibh\sdm\ecommerce\persistance\DynamoDBConfig.java
+c:\ecommerce\Test-Ecommerce\src\main\java\br\unibh\sdm\ecommerce\persistance\StoreRepository.java
+c:\ecommerce\Test-Ecommerce\src\main\java\br\unibh\sdm\ecommerce\rest\StoreController.java
+c:\ecommerce\Test-Ecommerce\src\main\java\br\unibh\sdm\ecommerce\service\StoreService.java
